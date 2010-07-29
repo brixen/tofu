@@ -1,0 +1,8 @@
+Tofu is an implementation of ECMAScript on the Rubinius VM.
+
+Q. Whence comes the name, Tofu?
+
+A. "ecmascript is like lua, its an embedded language its the tofu of
+   languages, it takes on the flavour of whatever you put it in."
+
+   -- dwaite
